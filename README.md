@@ -11,7 +11,7 @@ Vue3 ts vive vue-router pinia(大菠萝) axios element-plus vue-lazyload
 ## 启动项目
 
 ```
-cd vite-project
+cd vite-rabbit-rabbit
 
 npm install
 
